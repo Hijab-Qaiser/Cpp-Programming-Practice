@@ -1,5 +1,5 @@
-# C-Work
-I am creating this repo to store my C++ development work while learning. 
+# Cpp-Programming-Practice
+This repository presents a carefully structured collection of C++ programming exercises. It documents my ongoing learning and development in C++, with a strong emphasis on fundamental programming concepts and disciplined problem solving.
 
 
 # days.cpp
